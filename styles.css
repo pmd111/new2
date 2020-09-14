@@ -1,0 +1,21 @@
+
+  body {
+    background-color: #a8d8ea;
+  }
+  h1 {
+    color: #66BFBF;
+  }
+  hr{
+      background-color: #66BFBF;
+      border-style: dotted none none;   <!--top bottom side check border style on mdn-->
+      height: 0px;
+      border-width: 5px;
+      border-color: grey;
+      width: 5%;
+  }
+  img {
+      height: 20px;
+
+  }
+
+  <!--  we use <style> </style>    if using internal css -->
